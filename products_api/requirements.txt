@@ -1,0 +1,11 @@
+black
+django
+django-mptt
+djangorestframework
+drf-spectacular
+flake8
+pytest
+pytest-django
+python-dotenv
+pytest-cov
+pytest-factoryboy
